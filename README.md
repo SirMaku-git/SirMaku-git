@@ -2,37 +2,37 @@
 <p align="center">
   <img src="gif_pixel_art.gif" alt="Pixel Art" width="800"/>
 </p>
-<p align="center">
-  <em>Mô tả thêm về bản thân bạn ở đây.</em>
-</p>
-
 ---
 
 ### 👨‍💻 Giới thiệu về tôi
 
-- 🌏 Tôi đến từ Việt Nam
-- 🔭 Hiện tại tôi đang làm việc tại...
-- 🌱 Tôi đang học...
-- 📫 Liên hệ với tôi qua email: [email@example.com](mailto:email@example.com)
+- 🌏 Đến từ Việt Nam 
+- 🎒 Hiện tại tôi đang làm học tại Trường trung học phổ thông Nguyễn Công Trứ
 
 ---
 
-### 🛠️ Ngăn xếp công nghệ của tôi
+### 🛠️ Bộ công cụ lập trình của tôi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,git" />
+    <h2>Language Programming</h2>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js" />
+    <h2>Web Development</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind" />
+    <h2>Game Development</h2>
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs,cpp" />
+    <h2>Development Tools</h2>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,pycharm,sublime,vim,neovim,eclipse" />
+    <h2>Data Management Tools</h2>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+    <h2>Operating System</h2>
+    <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu,apple" />
   </a>
 </p>
 
 ---
 
-### 📊 Thống kê GitHub của tôi
+### 💬 Liên Hệ
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&column=7" alt="GitHub Trophies"/>
-</p>
+[![Discord](https://img.shields.io/badge/DISCORD-purple?style=for-the-badge&logo=discord)]([https://discord.gg/your-link](https://discordapp.com/users/789500657739890759))
+[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](mailto:baotoannguyen.gv@gmail.com)
