@@ -4,17 +4,17 @@
 </p>
 ---
 
-### 👨‍💻 Giới thiệu về tôi
+<h1 align="center">👨‍💻 Giới thiệu về tôi</h1>
 
 - 🌏 Đến từ Việt Nam 
 - 🎒 Hiện tại tôi đang làm học tại Trường trung học phổ thông Nguyễn Công Trứ
 
 ---
 
-### 🛠️ Bộ công cụ lập trình của tôi
+<h1 align="center"> 🛠️ Bộ công cụ lập trình của tôi </h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align = "center">
     <h2>Language Programming</h2>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js" />
     <h2>Web Development</h2>
@@ -32,7 +32,7 @@
 
 ---
 
-### 💬 Liên Hệ
+<h1 align="center"> 💬 Liên Hệ </h1>
 
 [![Discord](https://img.shields.io/badge/DISCORD-purple?style=for-the-badge&logo=discord)]([https://discord.gg/your-link](https://discordapp.com/users/789500657739890759))
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](mailto:baotoannguyen.gv@gmail.com)
