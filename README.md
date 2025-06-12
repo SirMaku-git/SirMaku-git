@@ -1,6 +1,6 @@
 <h1 align="center">SirMaku - A student trying to become a coder while still in high school.</h1>
 <p align="center">
-  <img src="gif_pixel_art.gif" alt="Pixel Art" width="200"/>
+  <img src="gif_pixel_art.gif" alt="Pixel Art" width="800"/>
 </p>
 <p align="center">
   <em>Mô tả thêm về bản thân bạn ở đây.</em>
