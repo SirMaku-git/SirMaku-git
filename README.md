@@ -1,4 +1,4 @@
-<h1 align="center">Tên của bạn: Mô tả ngắn về bạn</h1>
+<h1 align="center">SirMaku - A student trying to become a coder while still in high school.</h1>
 <p align="center">
   <img src="URL_HINH_ANH_PIXEL_CUA_BAN" alt="Pixel Art" width="200"/>
 </p>
