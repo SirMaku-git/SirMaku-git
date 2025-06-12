@@ -2,6 +2,7 @@
 <p align="center">
   <img src="gif_pixel_art.gif" alt="Pixel Art" width="800"/>
 </p>
+
 ---
 
 <h1 align="center">👨‍💻 Giới thiệu về tôi</h1>
@@ -15,17 +16,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev" align = "center">
-    <h2>Language Programming</h2>
+    <h3>Language Programming</h3>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js" />
-    <h2>Web Development</h2>
+    <h3>Web Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind" />
-    <h2>Game Development</h2>
+    <h3>Game Development</h3>
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs,cpp" />
-    <h2>Development Tools</h2>
+    <h3>Development Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,pycharm,sublime,vim,neovim,eclipse" />
-    <h2>Data Management Tools</h2>
+    <h3>Data Management Tools</h3>
     <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-    <h2>Operating System</h2>
+    <h3>Operating System</h3>
     <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu,apple" />
   </a>
 </p>
