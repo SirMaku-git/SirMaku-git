@@ -9,6 +9,9 @@
 
 - 🌏 Đến từ Việt Nam 
 - 🎒 Hiện tại tôi đang học tại Trường trung học phổ thông Nguyễn Công Trứ
+- 📌 Đam mê lập trình và công nghệ từ sớm
+- 💬 Có thể trao đổi bằng tiếng Việt & English
+- 💡 Mục tiêu của tôi: Trở thành một lập trình viên Full-Stack, có thể tự tay xây dựng những sản phẩm sáng tạo và hữu ích cho cộng đồng.
   
 ---
 
