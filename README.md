@@ -8,10 +8,10 @@
 <h1 align="center">👨‍💻 Giới thiệu về tôi</h1>
 
 - 🌏 Đến từ Việt Nam 
-- 🎒 Hiện tại tôi đang học tại Trường trung học phổ thông Nguyễn Công Trứ
+- 🎒 Hiện tại tôi đang học tại Học Viện Công Nghệ Bưu Chính Viễn Thông Cơ Sở tại TP.HCM
 - 📌 Đam mê lập trình và công nghệ từ sớm
 - 💬 Có thể trao đổi bằng tiếng Việt & English
-- 💡 Mục tiêu của tôi: Trở thành một lập trình viên Full-Stack, có thể tự tay xây dựng những sản phẩm sáng tạo và hữu ích cho cộng đồng.
+- 💡 Mục tiêu của tôi: Trở thành một lập trình viên Full-Stack, có thể tự tay xây dựng những sản phẩm sáng tạo và hữu ích cho tôi và công việc.
   
 ---
 
@@ -34,7 +34,7 @@
 
 <h3 align="center">🧰 Development Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,pycharm,sublime,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,pycharm,sublime,vim" />
 </p>
 
 <h3 align="center">🗃️ Data Management</h3>
@@ -44,7 +44,7 @@
 
 <h3 align="center">🖥️ Operating Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu,apple" />
+  <img src="https://skillicons.dev/icons?i=windows,kali" />
 </p>
 
 <p align="center"><em>Học nhiều thứ, nhưng mới chỉ chạm tới bề mặt (chắc vậy) – vẫn đang trên hành trình khám phá sâu hơn mỗi ngày 🌱 (chắc thế)</em></p>
