@@ -1,4 +1,4 @@
-<h1 align="center">SirMaku - A student trying to become a coder while still in high school.</h1>
+<h1 align="center">SirMaku – A university student aspiring to become a coder.</h1>
 <p align="center">
   <img src="gif_pixel_art.gif" alt="Pixel Art" width="800"/>
 </p>
