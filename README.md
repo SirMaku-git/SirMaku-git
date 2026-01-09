@@ -14,19 +14,7 @@
 - 📌 Passionate about programming, systems, and how things work under the hood  
 - 💬 Languages: Vietnamese 🇻🇳 & English 🇬🇧  
 - 💡 Goal: Become a Full-Stack Developer capable of building practical, creative, and scalable products
-
----
-
-<h1 align="center">🛠️ Tech Stack & Tools</h1>
-
-<p align="center">
-  <em>
-    Đam mê kỹ thuật, thích mày mò hệ thống và luôn học bằng cách tự tay làm.
-    <br>
-    Kiến thức vẫn đang được đào sâu mỗi ngày 🚀
-  </em>
-</p>
-
+  
 ---
 
 <h3 align="center">💻 Programming & Development</h3>
