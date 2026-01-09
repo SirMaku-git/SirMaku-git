@@ -4,6 +4,7 @@
 <p align="center">
   <img src="gif_pixel_art.gif" alt="Pixel Art" width="800"/>
 </p>
+
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
